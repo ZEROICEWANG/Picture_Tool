@@ -1,0 +1,4 @@
+python==3.6
+os
+numpy==1.19.5
+PIL==8.3.2
